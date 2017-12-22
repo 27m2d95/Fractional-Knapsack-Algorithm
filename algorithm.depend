@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1486227747 source:c:\users\ahmad\desktop\algorithm\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+	<time.h>
+	<iomanip>
+
